@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.cydialmg.cc/mianfei/index_files/lmg.png</string>
+					<string>http://img3.imgtn.bdimg.com/it/u=1771674308,3424091801&fm=26&gp=0.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.cydialmg.cc/mianfei/index_files/lmg.png</string>
+					<string>http://img3.imgtn.bdimg.com/it/u=1771674308,3424091801&fm=26&gp=0.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,9 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>零秒队长</string>
+				<string>微信</string>
 				<key>title</key>
-				<string>零秒队长-后期更新请关注微信公众号：Cydialmg</string>
+				<string>微信</string>
 			</dict>
 		</dict>
 	</array>
